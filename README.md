@@ -8,7 +8,7 @@ Tagline: Turning messy operational problems into reliable, automated systems. �
 - Location: Hamburg area, Germany 🇩🇪
 - Bio: Full-Stack Development • AI Agents • Automation • APIs • TypeScript • Node.js • React • PostgreSQL • Pine Script
 
-I work mostly as an independent developer, building and operating a production SaaS platform on my own. My core focus is applied AI — agents built on the Anthropic and OpenAI APIs with tool-routing and guardrails — wired into real web apps, webhook infrastructure, and automation workflows, as well as the extensive and structured long-term testing/QA of automations. I come from a commercial and e-commerce background, so I care as much about whether something actually works in production as about how it's built and how maintainable its architecture is designed.
+I work mostly as an independent developer, building and operating a production SaaS platform on my own. My core focus is applied AI — agents built on the Anthropic and OpenAI APIs with tool-routing and guardrails — wired into real web apps, webhook infrastructure, and automation workflows, as well as the extensive and structured long-term testing/QA of automations. I also build my own APIs and gateway automation tools. I come from a commercial and e-commerce background, so I care as much about whether something actually works in production as about how it's built and how maintainable its architecture is designed.
 
 Currently working on:
 - AI agents & automation workflows 🤖
